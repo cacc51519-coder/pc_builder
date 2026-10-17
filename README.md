@@ -2,7 +2,6 @@
 
 Phiên bản này chuyển giao diện chính của các Form sang cấu trúc WinForms Designer chuẩn để có thể chỉnh sửa bằng Visual Studio 2022. Database và các lớp nghiệp vụ hiện có được giữ nguyên.
 
-An đã ở đây
 
 ## 1. Yêu cầu
 
